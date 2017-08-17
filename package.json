@@ -1,7 +1,7 @@
 {
   "name": "showconsole", 
   "author": "yangyangyang", 
-  "version": "0.0.1", 
+  "version": "0.0.2", 
   "main": "index",
   "repository": "git@github.com:myselfyy/showConsole.git"
 }
